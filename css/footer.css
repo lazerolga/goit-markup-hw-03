@@ -1,0 +1,33 @@
+.footer {
+  background: #2e2f42;
+  padding: 100px 0px;
+}
+.footer-logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33333;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
+  margin-bottom: 16px;
+  display: inline-block;
+}
+.footer-accent {
+  color: #4d5ae5;
+}
+
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+  max-width: 264px;
+  display: block;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+.footer-box {
+  width: 264px;
+}
